@@ -3,4 +3,4 @@ cd $(cd $(dirname $0); pwd)
 sudo lua5.3 Fast.lua
 ;;
 esac
- 
+ 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
